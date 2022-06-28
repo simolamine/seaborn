@@ -77,7 +77,7 @@ html_static_path = ['_static']
 html_logo = "_static/logo.svg"
 
 html_sidebars = {
-    # "**": [],
+    "index": [],
     "demo": ["page-toc"]
 }
 
